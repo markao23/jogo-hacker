@@ -1,2 +1,3 @@
-# essa vai todos os arquivos de compilação 
-Minhajanela.class
+# essa vai todos os arquivos de importação do go
+go.mod
+go.sum
