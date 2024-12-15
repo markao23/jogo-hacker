@@ -1,2 +1,3 @@
-# anbiente virtual 
-.venv/
+# modulo de instalação
+go.mod
+go.sum
